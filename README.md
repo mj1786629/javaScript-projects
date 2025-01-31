@@ -1,10 +1,8 @@
-# JavaScript Series
 
-This are the list of projects that we are building in our Javascript series on Instagram.
+
+This are the list of projects that we are building in our Javascript series 
 
 ## How to make?
-
-Go to my Instagram page [@coding_dev_](https://www.instagram.com/coding_dev_/) to learn making of this JavaScript Projects.
 
 
 ## List of Projects covered:
@@ -15,6 +13,6 @@ Go to my Instagram page [@coding_dev_](https://www.instagram.com/coding_dev_/) t
 5. Random Quote Generator
 6. Tip Calculator
 7. Text Counter
-8. More coming soon!
+8. 
 ---
 If you like this series and find it helpful then don't forget to give it a Star ✨
